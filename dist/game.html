@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gioco Patata</title>
+    <link rel="stylesheet" href="css/libraries.min.css">
+    <link rel="stylesheet" href="css/app.min.css">
+    <script src="js/vendor/modernizr.min.js"></script>
+  </head>
+  <body>
+    <div id="main" class="app-container game hidden">
+      <div class="row title">
+        <div class="small-12 columns"></div>
+      </div>
+      <div class="row questions">
+        <div class="small-12 columns">
+          <h2 data-i18n="game.quiz.quiz_1.question_title"></h2>
+          <div class="questions_list"></div>
+        </div>
+      </div>
+      <div id="quiz-container" class="row quiz">
+        <div id="tool-tip" data-i18n=""></div>
+        <div id="drag-container" class="small-4 columns"></div>
+        <div id="drop-container" class="small-8 columns"></div>
+      </div>
+      <div class="row navigation">
+        <div class="small-3 columns"></div>
+        <div class="small-6 columns level-bar">
+          <ul>
+            <li>INDICATORE SCENARIO:</li>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+            <li>6</li>
+          </ul>
+        </div>
+        <div class="small-3 columns">
+          <div class="nav-main"><a href="#" data-i18n="[html]game.button.lang" class="lang-switch"></a><a href="index.html" data-i18n="[html]game.button.home" class="ajax"></a></div>
+        </div>
+      </div>
+      <div id="gameModal" data-reveal class="reveal-modal full">
+        <div class="container">
+          <div class="title"></div>
+          <div class="subtitle"></div>
+          <div class="content"></div><a data-i18n="game.quiz.modal_button" class="close-reveal-modal modal-close">TOCCA PER CONTINUARE</a>
+        </div>
+      </div>
+      <div id="endModal" data-reveal class="reveal-modal full">
+        <div class="container">
+          <div class="content"></div><a data-i18n="game.quiz.modal_button" class="close-reveal-modal modal-close">TOCCA PER CONTINUARE</a>
+        </div>
+      </div>
+      <div id="reloadModal" data-reveal class="reveal-modal small"><img src="images/modal_close.png">
+        <h1 data-i18n="[html]home.alert.alert_content"></h1><a data-i18n="home.alert.alert_button" class="close-reveal-modal modal-close">TOCCA PER ANNULLARE</a>
+      </div>
+    </div>
+    <script src="js/vendor/libraries.min.js"></script>
+    <!--script(src='bower_components/BookBlock/js/jquery.bookblock.js')-->
+    <script src="js/vendor/foundation.min.js"></script>
+    <script src="js/app.min.js"></script>
+  </body>
+</html>

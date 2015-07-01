@@ -1,0 +1,352 @@
+{
+	"home": {
+		"title": "HOME PAGE",
+		"subtitle": "Touch the area you want explore",
+		"langswitch": "SWITCH<br/>LANGUAGE",
+		"button": {
+			"game": "Play the Quiz!",
+			"book": "Everything about potatoes!",
+			"switch": "<img src=\"images/home_itabtn.png\" />"
+		},
+		"alert":{
+			"alert_content": "THE GAME WILL RESTART<br>WITHIN 30 SEC.",
+			"alert_button": "TOUCH TO CANCEL"
+		}
+	},
+
+	"game": {
+		"button": {
+			"home": "<img src=\"images/game_homebtn.png\" />",
+			"lang": "<img src=\"images/game_itabtn.png\" />"
+		},
+		"quiz": {
+			"modal_title": "",
+			"modal_content": "",
+			"modal_button": "touch to continue!",
+
+			"quiz_1":{
+				"title": "scenario 1 – let’s discover the long history of the potato!",
+				"question_title": "questions:",
+				"questions":{
+					"question_1": "<span>where does the</span><br/><span>potato come from?</span>",
+					"question_2": "<span>who were the first people</span><br/><span>to cultivate and conserve it?</span>",
+					"question_3": "<span>who introduced</span><br/><span>it in Europe?</span>"
+				},
+				"texts":{
+					"text_1": "it comes from Mexico!",
+					"text_2": "the Spanish conquistadores!",
+					"text_3": "the first people to cultivate and conserve potatoes were the Incas!",
+					"text_4": "it comes from Peru and bolivia!"
+				},
+				"modal_title": "congratulations scenario completed!",
+				"modal_content": "Potatoes are originally from the Andes, <b>Peru, Bolivia, Mexico</b>. They have been cultivated since the times of the pre-Colombian civilizations (XIII-XVI century), the <b>Aztecs and the Incas</b>, who considered them to be a gift from their Goddess Axomana. At the time, potatoes were the basic food ingredient for these populations of the highlands, where they grew spontaneously.<br/><br/>They were discovered by the Spaniard <b>Francisco Pizarro</b>, the ruthless conqueror of Peru, who imported them to Spain during the early Sixteenth century and gifted them to his King as a botanical curiosity."
+			},
+
+			"quiz_2":{
+				"title": "scenario 2 – the history of potatoes! Diffusion in Europe",
+				"question_title": "question:",
+				"questions":{
+					"question_1": "<span>who helped spread the potato across Europe?</span>"
+				},
+				"texts":{
+					"text_1": "King Louis XVI of France in 1785!",
+					"text_2": "Queen Elizabeth the first of England in 1585!",
+					"text_3": "King Frederick II of Germany in 1756!"
+				},
+				"modal_title": "congratulations scenario completed!",
+				"modal_content": "Many years went by before potatoes were used as food in Europe.<br/><b>England:</b>Potatoes arrived at the court of Elizabeth I in 1585. According to the legend, the Queen’s cook, who was not familiar with the plant, used its leaves to prepare a salad instead of using its tuber. The Queen found the dish disgusting, and immediately summoned the explorer Walter Raleigh, who had offered the gift, back to court to explain how it was to be used.<br/><b>Germany:</b>Potatoes were already known in Germany as far back as the early XVII century.Only in 1756, when dealing with a terrible famine, did Frederick II issue the “kartoffelbefehl” edict, thus ordering it to be cultivated in every field in order to feed the population.<br/><b>France:</b>Potatoes were taken to France by the agronomist Parmentier, who had discovered their use during a period of imprisonment in Prussia. Queen Antoinette was responsible for spreading the use of the potato plant’s flowers to decorate wigs and in the court gardens. Only in 1785, Louis XVI, with the help of Parmentier, convinced the population to cultivate them for food purposes."
+			},
+
+			"quiz_3":{
+				"title": "scenario 3 – What makes a potato? The botanical aspects",
+				"question_title": "question:",
+				"questions":{
+					"question_1": "<span>which parts is the plant made of?</span>"
+				},
+				"texts":{
+					"text_1": "The runners!",
+					"text_2": "The fruit!",
+					"text_3": "The potatoes!",
+					"text_4": "The stem!",
+					"text_5": "The flower!",
+					"text_6": "The leaves!"
+				},
+				"modal_title": "congratulations scenario completed!",
+				"modal_content": "The potato plant consists of an underground part and an over-ground part.<br/><b>Underground</b><br/><b>stems and runners</b>, which are the very articulated underground roots which serve for reproduction. The runners are attached to the <b>tubers</b>, the edible part we call <b>potatoes</b>.There are hundreds of known and used potatoes, each with their own colors, dimensions and shapes according to the quality and typology. They also have different names such as: Agatha, Samba and Mona Lisa, Manon, Marabel, the well-known Bintje, Amandine, Charlotte, Chérie, Franceline.<br/><b>Over-ground</b><br/>The green/brown <b>stem</b> is covered in hair, grows to a height of circa 50-90 cm, and is where the leaves and flowers grow from. The <b>leaves</b> are medium sized, have a strong green color and are covered in hair on the lower part, while the upper side is smooth. The <b>flowers</b> grow in bunches, have 5 petals and their color is white or pink.The <b> fruit</b>  consists of fleshy roundish berries, initially green and later opaque, which contain many small flat seeds. "
+			},
+
+			"quiz_4":{
+				"title": "scenario 4 – how are potatoes cultivated? Botanical aspects",
+				"question_title": "question:",
+				"questions":{
+					"question_1": "<span>How does the potato reproduce?</span>"
+				},
+				"texts":{
+					"text_1": "The bud is born!",
+					"text_2": "The tuber must be planted!",
+					"text_3": "The plant dries out and the potatoes can be harvested!",
+					"text_4": "The plant develops and the flowers blossom!",
+					"text_5": "The potatoes are harvested!"
+				},
+				"modal_title": "congratulations scenario completed!",
+				"modal_content": "<b>Biological phases</b><br/>The biological cycle of the potato varies, in terms of its start, duration and end, according to the typology, country and region of the cultivation (between 3 and 5 months).<br/><b>Sowing:</b> After adequately preparing the field for sowing, the already sprouted potatoes, from the previous harvest, are placed 15 cm underground and distant from each other.<b>Sprouts:</b> After more or less 20 days, the buds will sprout. Vegetative development: during this phase, the sprouts also give birth to the stems which, later, form their own roots. These roots, also known as runners, have a bushy look underground, while on the surface they can reach a height between 30 and 90 cm, according to the variety of potato.<b>Flowering:</b> The flowers appear after more or less 40-60 days. Their color can be white or pinkish, according to the typology of potato.<b>Growth of the tubers:</b> This phase is called tuberization: the tubers form in the final part of each runner, and grow over the course of time.<b>Ripening:</b> The leaves turn yellow, the stems curve towards the ground and the surface of the tuber becomes more resistant due to the formation of an external layer, the skin of the potato. Harvest: When the leaves start drying out and the development of the tuber is complete, the harvest can begin. The peasants use spades and pitchforks to remove the potatoes from the ground, while paying maximum attention not to damage them. Finally, they leave the potatoes to dry and place them in wooden crates."
+			},
+
+			"quiz_5":{
+				"title": "scenario 5 - such a resourceful potato! Let’s discover some curiosities",
+				"question_title": "question:",
+				"questions":{
+					"question_1": "<span>What can we do with potatoes?</span>"
+				},
+				"texts":{
+					"text_1": "They work against burns and mosquitos!",
+					"text_2": "They can be used to clean shoes!",
+					"text_3": "They can be used to remove glue from one’s fingers!"
+				},
+				"modal_title": "congratulations scenario completed!",
+				"modal_content": "The properties of the substances found in potatoes, above all starch,  help solve many daily problems in natural ways.<br/><b>Glue stains on hands:</b> to remove glue from your hands, we suggest rubbing a slice of raw potato on them before washing with water and soap.<br/><b>Cleaning shoes:</b>You can remove dirt from shoes made of impermeable materials and with rubber soles, by rubbing the parts with a small slice of raw potato, before using the shoe-cloth or shoe-brush.<br/><b>For burns and mosquito bites:</b>cut the raw potato into slices and apply them on the reddened or swollen skin, leaving them to act for 15 to 20 minutes."
+			},
+
+			"quiz_6":{
+				"title": "scenario 6 - Finally it’s time to eat! Cooking the potato",
+				"question_title": "question:",
+				"questions":{
+					"question_1": "<span>what marvelous dishes!</span><br/><span>How can we cook potatoes?</span>"
+				},
+				"texts":{
+					"text_1": "yellow-flesh potatoes taste best when fried!",
+					"text_2": "red-skinned potatoes taste best when cooked in the oven!",
+					"text_3": "white-flesh potatoes taste best when mashed!",
+					"text_4": "new potatoes taste best when boiled!"
+				},
+				"modal_title": "congratulations scenario completed!",
+				"modal_content": "<b>White flesh potatoes:</b> their pulp is floury and delicate, and when cooked it becomes soft and can easily be squashed with a fork or a potato masher.<br/>In cooking, they are used for preparing mashed potatoes, gnocchi, croquettes, pies, soups and creams.<br/><b>Yellow flesh potatoes:</b>their pulp is compact and they are more resistant when cooked, and can therefore be used in many recipes.<br/>In cooking, they are used for many recipes, but are ideal for French fries given that they guarantee crunchiness and easily maintain their natural shape.<br/><b>Red-skinned potatoes:</b>their pulp is white or yellow. These potatoes are generally very consistent and compact, usually smaller than other potatoes and have a roundish shape.<br/>In cooking, they are used in many ways and are very tasty, ideal if cooked in the oven. If boiled, the skin loses much of its color and the pulp can become slightly darker.<br/><b>New potatoes:</b>are called this way because they are harvested before fully ripening. They are small, their skin is thin and their pulp is tender and compact.<br/>In cooking, they are excellent roasted or boiled. Their skin is so thin that it can be eaten along with the pulp."
+			}
+		}
+	},
+
+	"book": {
+		"nav": {
+			"switch": "<img src=\"images/home_itabtn.png\" />"
+		},
+		"menu": {
+			"title": "INDEX",
+			"subtitle": "Select content",
+			"menu_1":{
+				"submenu_1":"HISTORY",
+				"submenu_2":"PRE-COLOMBIAN TIMES – THE FIRST CULTIVATIONS",
+				"submenu_3":"ARRIVAL IN EUROPE",
+				"submenu_4":"ARRIVAL IN SPAIN",
+				"submenu_5":"DIFFUSION IN ITALY",
+				"submenu_6":"DIFFUSION IN ENGLAND AND IRELAND",
+				"submenu_7":"DIFFUSION IN GERMANY ",
+				"submenu_8":"DIFFUSION IN FRANCE",
+				"submenu_9":"DIFFUSION IN THE REST OF THE WORLD",
+				"submenu_10":"THE RECOGNITION",
+				"submenu_11":"NEGATIVE PHASE",
+				"submenu_12":"HISTORICAL CURIOSITIES"
+			},
+			"menu_2":{
+				"submenu_1":"BOTANICAL NATURE",
+				"submenu_2":"THE PLANT",
+				"submenu_3":"CULTIVATION",
+				"submenu_4":"DIFFERENT PRODUCTION AREAS",
+				"submenu_5":"CONSERVATION"
+			},
+			"menu_3":{
+				"submenu_1":"VARIETY",
+				"submenu_2":"WHITE FLESH ",
+				"submenu_3":"YELLOW FLESH ",
+				"submenu_4":"RED SKIN",
+				"submenu_5":"NEW POTATOES",
+				"submenu_6":"TURCHESA POTATOES",
+				"submenu_7":"VITELOTTE POTATOES",
+				"submenu_8":"AMERICAN OR SWEET POTATOES"
+			},
+			"menu_4":{
+				"submenu_1":"COMPOSITION",
+				"submenu_2":"NUTRITIONAL VALUES"
+            },
+			"menu_5":{
+				"submenu_1":"FURTHER USES OF THE POTATO",
+				"submenu_2":"INTRODUCTION",
+				"submenu_3":"DERIVATIVES",
+                "submenu_4":"SOME INDUSTRIAL USES"
+			},
+			"menu_6":{
+				"submenu_1":"CHIPS PRODUCTION",
+				"submenu_2":"RAW MATERIAL ARRIVAL ",
+				"submenu_3":"PRODUCTION",
+				"submenu_4":"PACKAGING"
+			},
+			"menu_7":{
+				"submenu_1":"CURIOSITIES",
+				"submenu_2":"IN THE KITCHEN",
+				"submenu_3":"FOR CLEANING",
+				"submenu_4":"PERSONAL UESES"
+			}
+		},
+		"pages":{
+			"page_0":{
+        "src": "1INTRO_eng/1INTRO_eng.jpg",
+				"info": "Welcome - Page 1 of 40"
+			},
+      "page_1":{
+        "src": "2SEZ_A_STORIA_eng/1-2SEZ_A_eng.jpg",
+				"info": "Page 2 of 40"
+			},
+			"page_2":{
+				"src": "2SEZ_A_STORIA_eng/3-4SEZ_A_eng.jpg",
+				"info": "Page 3 of 40"
+			},
+			"page_3":{
+				"src": "2SEZ_A_STORIA_eng/5-6SEZ_A_eng.jpg",
+				"info": "Page 4 of 40"
+			},
+			"page_4":{
+				"src": "2SEZ_A_STORIA_eng/7-8SEZ_A_eng.jpg",
+				"info": "Page 5 of 40"
+			},
+			"page_5":{
+				"src": "2SEZ_A_STORIA_eng/9-10SEZ_A_eng.jpg",
+				"info": "Page 6 of 40"
+			},
+			"page_6":{
+				"src": "2SEZ_A_STORIA_eng/11-12SEZ_A_eng.jpg",
+				"info": "Page 7 of 40"
+			},
+			"page_7":{
+				"src": "2SEZ_A_STORIA_eng/13-14SEZ_A_eng.jpg",
+				"info": "Page 8 of 40"
+			},
+			"page_8":{
+				"src": "2SEZ_A_STORIA_eng/15-16SEZ_A_eng.jpg",
+				"info": "Page 9 of 40"
+			},
+			"page_9":{
+				"src": "2SEZ_A_STORIA_eng/17-18SEZ_A_eng.jpg",
+				"info": "Page 10 of 40"
+			},
+			"page_10":{
+				"src": "2SEZ_A_STORIA_eng/19-20SEZ_A_eng.jpg",
+				"info": "Page 11 of 40"
+			},
+			"page_11":{
+				"src": "2SEZ_A_STORIA_eng/21-22SEZ_A_eng.jpg",
+        "info": "Page 12 of 40"
+      },
+      "page_12":{
+        "src": "3SEZ_B_BOTANICA_eng/1-2SEZ_B_eng.jpg",
+				"info": "Page 13 of 40"
+			},
+			"page_13":{
+				"src": "3SEZ_B_BOTANICA_eng/3-4SEZ_B_eng.jpg",
+				"info": "Page 14 of 40"
+			},
+			"page_14":{
+				"src": "3SEZ_B_BOTANICA_eng/5-6SEZ_B_eng.jpg",
+				"info": "Page 15 of 40"
+			},
+			"page_15":{
+				"src": "3SEZ_B_BOTANICA_eng/7-8SEZ_B_eng.jpg",
+				"info": "Page 16 of 40"
+			},
+			"page_16":{
+				"src": "3SEZ_B_BOTANICA_eng/9-10SEZ_B_eng.jpg",
+				"info": "Page 17 of 40"
+			},
+			"page_17":{
+				"src": "3SEZ_B_BOTANICA_eng/11-12SEZ_B_eng.jpg",
+				"info": "Page 18 of 40"
+			},
+			"page_18":{
+				"src": "3SEZ_B_BOTANICA_eng/13-14SEZ_B_eng.jpg",
+        "info": "Page 19 of 40"
+      },
+      "page_19":{
+        "src": "4SEZ_C_VARIETA_eng/1-2SEZ_C_eng.jpg",
+				"info": "Page 20 of 40"
+			},
+			"page_20":{
+				"src": "4SEZ_C_VARIETA_eng/3-4SEZ_C_eng.jpg",
+				"info": "Page 21 of 40"
+			},
+			"page_21":{
+				"src": "4SEZ_C_VARIETA_eng/5-6SEZ_C_eng.jpg",
+				"info": "Page 22 of 40"
+			},
+			"page_22":{
+				"src": "4SEZ_C_VARIETA_eng/7-8SEZ_C_eng.jpg",
+				"info": "Page 23 of 40"
+			},
+			"page_23":{
+				"src": "4SEZ_C_VARIETA_eng/9-10SEZ_C_eng.jpg",
+				"info": "Page 24 of 40"
+			},
+			"page_24":{
+				"src": "4SEZ_C_VARIETA_eng/11-12SEZ_C_eng.jpg",
+				"info": "Page 25 of 40"
+			},
+			"page_25":{
+				"src": "4SEZ_C_VARIETA_eng/13-14SEZ_C_eng.jpg",
+        "info": "Page 26 of 40"
+      },
+      "page_26":{
+        "src": "5SEZ_D_COMPOSIZIONE_eng/1-2SEZ_D_eng.jpg",
+				"info": "Page 27 of 40"
+			},
+			"page_27":{
+				"src": "5SEZ_D_COMPOSIZIONE_eng/3-4SEZ_D_eng.jpg",
+				"info": "Page 28 of 40"
+            },
+			"page_28":{
+				"src": "5SEZ_Dbis_SEZ_DERIVATI_eng/1-2SEZ_DBIS_eng.jpg",
+				"info": "Page 29 of 40"
+			},
+			"page_29":{
+				"src": "5SEZ_Dbis_SEZ_DERIVATI_eng/3-4SEZ_DBIS_eng.jpg",
+				"info": "Page 30 of 40"
+			},
+			"page_30":{
+				"src": "5SEZ_Dbis_SEZ_DERIVATI_eng/5-6SEZ_DBIS_eng.jpg",
+				"info": "Page 31 of 40"
+			},
+			"page_31":{
+				"src": "5SEZ_Dbis_SEZ_DERIVATI_eng/7-8SEZ_DBIS_eng.jpg",
+				"info": "Page 32 of 40"
+			},
+			"page_32":{
+				"src": "5SEZ_Dbis_SEZ_DERIVATI_eng/9-10SEZ_DBIS_eng.jpg",
+				"info": "Page 33 of 40"
+      },
+      "page_33":{
+        "src": "6SEZ_E_PRODUZIONE_eng/1-2SEZ_E_eng.jpg",
+				"info": "Page 34 of 40"
+			},
+			"page_34":{
+				"src": "6SEZ_E_PRODUZIONE_eng/3-4SEZ_E_eng.jpg",
+				"info": "Page 35 of 40"
+			},
+			"page_35":{
+				"src": "6SEZ_E_PRODUZIONE_eng/5-6SEZ_E_eng.jpg",
+        "info": "Page 36 of 40"
+      },
+      "page_36":{
+        "src": "7SEZ_F_CURIOSITA_eng/1-2SEZ_F_eng.jpg",
+				"info": "Page 37 of 40"
+			},
+			"page_37":{
+				"src": "7SEZ_F_CURIOSITA_eng/3-4SEZ_F_eng.jpg",
+				"info": "Page 38 of 40"
+			},
+			"page_38":{
+				"src": "7SEZ_F_CURIOSITA_eng/5-6SEZ_F_eng.jpg",
+				"info": "Page 39 of 40"
+			},
+			"page_39":{
+				"src": "7SEZ_F_CURIOSITA_eng/7-8SEZ_F_eng.jpg",
+				"info": "Page 40 of 40"
+			}
+		}
+	}
+}

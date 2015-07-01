@@ -1,0 +1,348 @@
+{
+	"home": {
+		"title": "HOME PAGE",
+		"subtitle": "Tocca l'area che vuoi esplorare",
+		"langswitch": "CAMBIA<br/>LINGUA",
+		"button": {
+			"game": "Gioca al Quiz!",
+			"book": "Tutto sulla patata!",
+			"switch": "<img src=\"images/home_engbtn.png\" />"
+		}
+	},
+
+	"game": {
+		"button": {
+			"home": "<img src=\"images/game_homebtn.png\" />",
+			"lang": "<img src=\"images/game_engbtn.png\" />"
+		},
+		"quiz": {
+			"modal_title": "",
+			"modal_content": "",
+			"modal_button": "tocca per continuare",
+
+			"quiz_1":{
+				"title": "scenario 1 - scopriamo insieme la lunga storia della patata!",
+				"question_title": "DOMANDE:",
+				"questions":{
+					"question_1": "<span>da dove arriva</span><br/><span>la patata?</span>",
+					"question_2": "<span>chi sono stati i primi</span><br/><span>a coltivarla e conservarla?</span>",
+					"question_3": "<span>chi l’ha</span><br/><span>introdotta in europa?</span>"
+				},
+				"texts":{
+					"text_1": "provengono dal messico!",
+					"text_2": "sono state importate dai conquistadores spagnoli!",
+					"text_3": "i primi a coltivarle e conservarle sono stati gli incas!",
+					"text_4": "provengono da perù e bolivia!"
+				},
+				"modal_title": "complimenti scenario 1 completato!",
+				"modal_content": "la patata è originaria delle ande, <b>perù, bolivia, messico</b>. è coltivata fin dai tempi delle civiltà pre-colombiane (xiii-xvi secolo), <b>azteca e inca</b>, che la consideravano un dono della loro dea axomana. a quei tempi essa rappresentava l’alimento base di queste popolazioni degli altopiani, dove cresceva spontanea.<br/><br/>fu scoperta dallo spagnolo <b>francisco pizarro</b>, spietato conquistatore del perù, che la importò in spagna nella prima metà del cinquecento e la donò al suo re come fosse una curiosità botanica."
+			},
+
+			"quiz_2":{
+				"title": "scenario 2 – la storia della patata! la sua diffusione in europa",
+				"question_title": "DOMANDA:",
+				"questions":{
+					"question_1": "<span>chi l’ha diffusa in europa?</span>"
+				},
+				"texts":{
+					"text_1": "re luigi xvi di francia nel 1785!",
+					"text_2": "la regina elisabetta prima di inghilterra nel 1585",
+					"text_3": "re federico ii di germania nel 1756!"
+				},
+				"modal_title": "complimenti scenario 2 completato!",
+				"modal_content": "in europa passò molto tempo prima che la patata venisse usata come alimento umano.<br/><b>inghilterra:</b> la patata giunge a corte di elisabetta i nel 1585. la leggenda racconta che lo chef della regina non conoscendo la pianta, invece di usare il tubero, ne utilizzò le foglie per prepare un’insalata. questo piatto provocò il disgusto della regina elisabetta, la quale richiamò subito a corte l’esploratore walter raleigh, che gliene fece dono, per chiedere spiegazione sul suo utilizzo.<br/><b>germania:</b> la patata è già conosciuta in germania dalla prima metà del xvii secolo. solo nel 1756, per far fronte ad una nera carestia, federico ii emana l’editto “kartoffelbefehl” e ordina così la sua coltivazione in tutti i campi per poter sfamare la popolazione.<br/><b>francia:</b> la patata viene portata in francia dall’agronomo parmentier, che ne aveva conosciuto l’utilizzo durante il periodo di prigionia in prussia. la regina antonietta diffuse l’utilizzo dei fiori della pianta di patata per ornare le parrucche e per i giardini di corte.  solo nel 1785, luigi xvi, con l’aiuto di parmentier, convincerà la popolazione a coltivarla a scopi alimentari."
+			},
+
+			"quiz_3":{
+				"title": "scenario 3 – come è fatta la patata? gli aspetti botanici",
+				"question_title": "DOMANDA:",
+				"questions":{
+					"question_1": "<span>quali sono le parti che compongono la pianta?</span>"
+				},
+				"texts":{
+					"text_1": "ecco gli stoloni!",
+					"text_2": "ecco le bacche!",
+					"text_3": "ecco le patate!",
+					"text_4": "ecco il fusto!",
+					"text_5": "ecco il fiore",
+					"text_6": "ecco le foglie!"
+				},
+				"modal_title": "complimenti scenario 3 completato!",
+				"modal_content": "la pianta della patata è costituita da una parte sotto terra e da una sopra terra.<br/><b>sotto terra</b><br/><b>fusti e stoloni</b>, che sono le radici sotterrane molto ramificate che servono alla riproduzione. attaccati agli stoloni troviamo i <b>tuberi</b>, parte commestibile che chiamiamo <b>patata</b>. le patate conosciute e utilizzate sono centinaia e hanno colori, grandezze e forme diverse a seconda della qualità e tipologia. hanno anche nomi diversi come, ad esempio: agata, samba e monalisa, manon, marabel la celebre bintje, amandine, charlotte, chérie, franceline.<br/><b>sopra terra</b><br/>il <b>fusto</b> di colore verde/marrone è ricoperto di peluria, alto da 50 a 90cm circa, dal quale nascono le foglie e il fiori. le <b>foglie</b> sono di media grandezza, di un bel verde, pelose nella parte inferiore e lisce in quella superiore. i <b>fiori</b> sono riuniti a grappolo, di colore bianco o rosa e formati da 5 petali. i <b>frutti</b> sono bacche carnose, prima verdi e poi scure, tondeggianti e contengono numerosi semi piccoli di forma piatta."
+			},
+
+			"quiz_4":{
+				"title": "scenario 4 – come si coltiva la patata? gli aspetti botanici",
+				"question_title": "DOMANDA:",
+				"questions":{
+					"question_1": "<span>come si riproduce la patata?</span>"
+				},
+				"texts":{
+					"text_1": "nasce il germoglio!",
+					"text_2": "si pianta il tubero!",
+					"text_3": "la pianta appassisce e le patate sono pronte per essere raccolte!",
+					"text_4": "la pianta si sviluppa e sbocciano i fiori!",
+					"text_5": "le patate vengono raccolte!"
+				},
+				"modal_title": "complimenti scenario 4 completato!",
+				"modal_content": "<b>fasi biologiche</b><br/>il ciclo biologico della patata ha inizio, durata e fine a seconda della varietà, del paese e della regione di coltivazione (dai 3 ai 5 mesi).<br/><b>semina:</b> dopo aver ben preparato il campo per la semina, le patate già germogliate, che provengono dalla precedente raccolta, vengono messe sotto terra ad una profondità di 15 cm e distanti l’una dall’altra.<br/><b>germogliazione:</b> dopo circa 20 giorni, le gemme germogliano.<br/><b>sviluppo vegetativo:</b> durante questa fase, dalla germogliazione si creano gli steli che, successivamente, emettono radici proprie. questi, detti anche stoloni, sotto terra assumono un aspetto cespicoso e fuori terra raggiungono un’altezza che varia dai 30 ai 90 cm, a seconda della varietà della patata.<br/><b>fioritura:</b> dopo circa 40-60 giorni compaiono i fiori, il cui colore può essere bianco o rosato in base alla tipologia di patata.<br/><b>ingrossamento dei tuberi:</b> questa fase si chiama tuberizzazione: nella parte finale di ogni stolone si formano i tuberi che piano piano si ingrossano.<br/><b>maturazione:</b> le foglie ingialliscono, gli steli si piegano verso il suolo e la superficie del tubero diviene più resistente per la formazione di uno strato esterno, cioè la buccia della patata.<br/><b>raccolta:</b> quando le foglie iniziano a seccare e cessa completamente lo sviluppo del tubero, può essere iniziata la raccolta. i contadini utilizzano le vanghe e i forconi per togliere le patate dal terreno facendo molta attenzione a non rovinarle. In conclusione, le lasciano ad asciugare bene e le pongono in cassette di legno."
+			},
+
+			"quiz_5":{
+				"title": "una patata piena di risorse! scopriamo qualche curiosità",
+				"question_title": "DOMANDA:",
+				"questions":{
+					"question_1": "<span>cosa si può fare con la patata?</span>"
+				},
+				"texts":{
+					"text_1": "sono efficaci contro le bruciature e le zanzare!",
+					"text_2": "si possono pulire le scarpe!",
+					"text_3": "si può levare la colla dalle mani!"
+				},
+				"modal_title": "COMPLIMENTI SCENARIO 5 COMPLETATO!",
+				"modal_content": "le proprietà contenute nelle sostanze di cui è fatta la patata, primo tra tutti l’amido, aiutano a risolvere in modo naturale molti problemi quotidiani.<br/><b>macchie di colla sulle mani:</b> per togliere la colla dalle mani, il consiglio è quello di strofinare su di esse una fetta di patata cruda prima di procedere con il lavaggio con acqua e sapone.<br/><b>pulizia delle scarpe:</b> per le scarpe fatte di materiali impermeabili e per le suole di gomma, è possibile togliere lo sporco strofinando le parti con una fettina di patata cruda, prima di passare il panno o la spazzola delle scarpe.<br/><b>per le scottature e le punture di zanzara:</b> tagliare la patata cruda a fette e applicarla sulle parti arrossate o gonfie lasciandola per 15 o 20 minuti."
+			},
+
+			"quiz_6":{
+				"title": "finalmente si mangia! l’utilizzo alimentare della patata",
+				"question_title": "DOMANDA:",
+				"questions":{
+					"question_1": "<span>che piatti curiosi!</span><br/><span>in quali modi possiamo cucinarla?</span>"
+				},
+				"texts":{
+					"text_1": "quelle a pasta gialla meglio fritte!",
+					"text_2": "quelle a buccia rossa meglio al forno!",
+					"text_3": "quelle a pasta bianca meglio per il purè!",
+					"text_4": "le patate novelle meglio bollite!"
+				},
+				"modal_title": "complimenti scenario 6 completato!",
+				"modal_content": "<b>patate con la polpa bianca:</b> la loro polpa è farinosa e delicata e con la  cottura diventa morbida e si può schiacciare bene con la forchetta o lo schiacciapatate.<br/>in cucina vengono utilizzate per fare il purè, gli gnocchi, le crocchette, gli sformati, zuppe e creme.<br/><b>patate a polpa gialla:</b> la loro polpa è compatta e resistono meglio alla cottura quindi si possono usare per tante ricette.<br/>in cucina si possono utilizzare per tante ricette ma sono ideali per le patate fritte perchè garantiscono croccantezza e mantengono bene la forma naturale.<br/><b>patate a buccia rossa:</b> la polpa all’interno è bianca o gialla. sono in genere molto consistenti e compatte, solitamente più piccole rispetto alle altre patate e di forma tondeggiante.<br/>in cucina sono adatte ad essere cucinate in vari modi e sono molto saporite, ideali cotte al forno. se bollite, la buccia perde buona parte del colore e la polpa può diventare un po’ più scura.<br/><b>patate novelle:</b> si chiamano così perché sono raccolte prima di arrivare a completa maturazione. hanno piccole dimensioni, la buccia sottile e la polpa è tenera e compatta.<br/>in cucina sono ottime arrosto o bollite. la buccia è tanto sottile che può essere mangiata insieme alla polpa."
+			}
+		}
+	},
+
+	"book": {
+		"nav": {
+			"switch": "<img src=\"images/home_engbtn.png\" />"
+		},
+		"menu": {
+			"title": "INDICE",
+			"subtitle": "Seleziona il contenuto",
+			"menu_1":{
+				"submenu_1":"STORIA",
+				"submenu_2":"ETA’ PRECOLOMBIANA - PRIME COLTIVAZIONI",
+				"submenu_3":"L’ARRIVO IN EUROPA",
+				"submenu_4":"L’APPRODO IN SPAGNA",
+				"submenu_5":"DIFFUSIONE IN ITALIA",
+				"submenu_6":"DIFFUSIONE IN INGHILTERRA E IRLANDA",
+				"submenu_7":"DIFFUSIONE IN GERMANIA",
+				"submenu_8":"DIFFUSIONE IN FRANCIA",
+				"submenu_9":"LA DIFFUSIONE NEL RESTO DEL MONDO",
+				"submenu_10":"IL RICONOSCIMENTO",
+				"submenu_11":"FASE NEGATIVA - CREDENZE E MOTIVI RELIGIOSI",
+				"submenu_12":"CURIOSITA’ STORICHE"
+			},
+			"menu_2":{
+				"submenu_1":"BOTANICA",
+				"submenu_2":"LA PIANTA",
+				"submenu_3":"COLTIVAZIONE",
+				"submenu_4":"DIFFERENTI AREE DI PRODUZIONE",
+				"submenu_5":"CONSERVAZIONE"
+			},
+			"menu_3":{
+				"submenu_1":"VARIETÀ",
+				"submenu_2":"A PASTA BIANCA",
+				"submenu_3":"A PASTA GIALLA",
+				"submenu_4":"A BUCCIA ROSSA",
+				"submenu_5":"PATATE NOVELLE",
+				"submenu_6":"PATATE TURCHESA",
+				"submenu_7":"PATATE VITELOTTE",
+				"submenu_8":"PATATE AMERICANE O DOLCI"
+			},
+			"menu_4":{
+				"submenu_1":"COMPOSIZIONE",
+				"submenu_2":"VALORI NUTRITIVI"
+            },
+			"menu_5":{                
+				"submenu_1":"USI NON ALIMENTARI DELLA PATATA",
+				"submenu_2":"INTRODUZIONE",
+				"submenu_3":"DERIVATI",
+                "submenu_4":"ALCUNI UTILIZZI NELL’INDUSTRIA"
+			},
+			"menu_6":{
+				"submenu_1":"PRODUZIONE CHIPS",
+				"submenu_2":"INGRESSO MATERIE PRIME",
+				"submenu_3":"LINEA COTTURA",
+				"submenu_4":"CONFEZIONAMENTO"
+			},
+			"menu_7":{
+				"submenu_1":"CURIOSITÀ",
+				"submenu_2":"IN CUCINA",
+				"submenu_3":"PER LA PULIZIA",
+				"submenu_4":"PER LA PERSONA"
+			}
+		},
+		"pages":{
+			"page_0":{
+        "src": "1INTRO.jpg",
+				"info": "Benvenuti - Pag 1 di 40"
+			},
+      "page_1":{
+        "src": "SEZIONE_A/1-2SEZ_A.jpg",
+				"info": "Pagina 2 di 40"
+			},
+			"page_2":{
+				"src": "SEZIONE_A/3-4SEZ_A.jpg",
+				"info": "Pagina 3 di 40"
+			},
+			"page_3":{
+				"src": "SEZIONE_A/5-6SEZ_A.jpg",
+				"info": "Pagina 4 di 40"
+			},
+			"page_4":{
+				"src": "SEZIONE_A/7-8SEZ_A.jpg",
+				"info": "Pagina 5 di 40"
+			},
+			"page_5":{
+				"src": "SEZIONE_A/9-10SEZ_A.jpg",
+				"info": "Pagina 6 di 40"
+			},
+			"page_6":{
+				"src": "SEZIONE_A/11-12SEZ_A.jpg",
+				"info": "Pagina 7 di 40"
+			},
+			"page_7":{
+				"src": "SEZIONE_A/13-14SEZ_A.jpg",
+				"info": "Pagina 8 di 40"
+			},
+			"page_8":{
+				"src": "SEZIONE_A/15-16SEZ_A.jpg",
+				"info": "Pagina 9 di 40"
+			},
+			"page_9":{
+				"src": "SEZIONE_A/17-18SEZ_A.jpg",
+				"info": "Pagina 10 di 40"
+			},
+			"page_10":{
+				"src": "SEZIONE_A/19-20SEZ_A.jpg",
+				"info": "Pagina 11 di 40"
+			},
+			"page_11":{
+				"src": "SEZIONE_A/21-22SEZ_A.jpg",
+        "info": "Pagina 12 di 40"
+      },
+      "page_12":{
+        "src": "SEZIONE_B/1-2SEZ_B.jpg",
+				"info": "Pagina 13 di 40"
+			},
+			"page_13":{
+				"src": "SEZIONE_B/3-4SEZ_B.jpg",
+				"info": "Pagina 14 di 40"
+			},
+			"page_14":{
+				"src": "SEZIONE_B/5-6SEZ_B.jpg",
+				"info": "Pagina 15 di 40"
+			},
+			"page_15":{
+				"src": "SEZIONE_B/7-8SEZ_B.jpg",
+				"info": "Pagina 16 di 40"
+			},
+			"page_16":{
+				"src": "SEZIONE_B/9-10SEZ_B.jpg",
+				"info": "Pagina 17 di 40"
+			},
+			"page_17":{
+				"src": "SEZIONE_B/11-12SEZ_B.jpg",
+				"info": "Pagina 18 di 40"
+			},
+			"page_18":{
+				"src": "SEZIONE_B/13-14SEZ_B.jpg",
+        "info": "Pagina 19 di 40"
+      },
+      "page_19":{
+        "src": "SEZIONE_C/1-2SEZ_C.jpg",
+				"info": "Pagina 20 di 40"
+			},
+			"page_20":{
+				"src": "SEZIONE_C/3-4SEZ_C.jpg",
+				"info": "Pagina 21 di 40"
+			},
+			"page_21":{
+				"src": "SEZIONE_C/5-6SEZ_C.jpg",
+				"info": "Pagina 22 di 40"
+			},
+			"page_22":{
+				"src": "SEZIONE_C/7-8SEZ_C.jpg",
+				"info": "Pagina 23 di 40"
+			},
+			"page_23":{
+				"src": "SEZIONE_C/9-10SEZ_C.jpg",
+				"info": "Pagina 24 di 40"
+			},
+			"page_24":{
+				"src": "SEZIONE_C/11-12SEZ_C.jpg",
+				"info": "Pagina 25 di 40"
+			},
+			"page_25":{
+				"src": "SEZIONE_C/13-14SEZ_C.jpg",
+        "info": "Pagina 26 di 40"
+      },
+      "page_26":{
+        "src": "SEZIONE_D/1-2SEZ_D.jpg",
+				"info": "Pagina 27 di 40"
+			},
+			"page_27":{
+				"src": "SEZIONE_D/3-4SEZ_D.jpg",
+				"info": "Pagina 28 di 40"
+            },
+			"page_28":{
+				"src": "SEZIONE_D_bis/1-2SEZ_DBIS.jpg",
+				"info": "Pagina 29 di 40"
+			},
+			"page_29":{
+				"src": "SEZIONE_D_bis/3-4SEZ_DBIS.jpg",
+				"info": "Pagina 30 di 40"
+			},
+			"page_30":{
+				"src": "SEZIONE_D_bis/5-6SEZ_DBIS.jpg",
+				"info": "Pagina 31 di 40"
+			},
+			"page_31":{
+				"src": "SEZIONE_D_bis/7-8SEZ_DBIS.jpg",
+				"info": "Pagina 32 di 40"
+			},
+			"page_32":{
+				"src": "SEZIONE_D_bis/9-10SEZ_DBIS.jpg",
+				"info": "Pagina 33 di 40"
+      },
+      "page_33":{
+        "src": "SEZIONE_E/1-2SEZ_E.jpg",
+				"info": "Pagina 34 di 40"
+			},
+			"page_34":{
+				"src": "SEZIONE_E/3-4SEZ_E.jpg",
+				"info": "Pagina 35 di 40"
+			},
+			"page_35":{
+				"src": "SEZIONE_E/5-6SEZ_E.jpg",
+        "info": "Pagina 36 di 40"
+      },
+      "page_36":{
+        "src": "SEZIONE_F/1-2SEZ_F.jpg",
+				"info": "Pagina 37 di 40"
+			},
+			"page_37":{
+				"src": "SEZIONE_F/3-4SEZ_F.jpg",
+				"info": "Pagina 38 di 40"
+			},
+			"page_38":{
+				"src": "SEZIONE_F/5-6SEZ_F.jpg",
+				"info": "Pagina 39 di 40"
+			},
+			"page_39":{
+				"src": "SEZIONE_F/7-8SEZ_F.jpg",
+				"info": "Pagina 40 di 40"
+			}
+		}
+	}
+}

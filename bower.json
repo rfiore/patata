@@ -1,0 +1,14 @@
+{
+  "name": "zf5_project",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "font-awesome": "~4.3.0",
+    "jquerypp": "~1.0.1",
+    "holderjs": "~2.5.2",
+    "i18next": "~1.7.7",
+    "jquery-ui": "~1.11.3",
+    "animate.css": "~3.2.3",
+    "jqueryui-touch-punch": "*",
+    "BookBlock-rfiore": "*"
+  }
+}

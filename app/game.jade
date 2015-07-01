@@ -1,0 +1,53 @@
+doctype html
+html(class="no-js", lang="en")
+	include header
+	body
+		div(id="main" class="app-container game hidden")
+			div(class="row title")
+				div(class="small-12 columns")
+
+			div(class="row questions")
+				div(class="small-12 columns")
+					h2(data-i18n="game.quiz.quiz_1.question_title")
+					div(class="questions_list")
+
+			div(class="row quiz" id="quiz-container")
+				div(id="tool-tip" data-i18n="")
+				div(class="small-4 columns" id="drag-container")
+				div(class="small-8 columns" id="drop-container")
+
+			div(class="row navigation")
+				div(class="small-3 columns")
+				div(class="small-6 columns level-bar")
+					ul
+						li INDICATORE SCENARIO:
+						li 1
+						li 2
+						li 3
+						li 4
+						li 5
+						li 6
+
+				div(class="small-3 columns")
+					div.nav-main
+						a(href="#" class="lang-switch" data-i18n="[html]game.button.lang")
+						a(href="index.html" class="ajax" data-i18n="[html]game.button.home")
+
+			div(id="gameModal" class="reveal-modal full" data-reveal)
+				div.container
+					div.title
+					div.subtitle
+					div.content
+					a(class="close-reveal-modal modal-close" data-i18n="game.quiz.modal_button") TOCCA PER CONTINUARE
+
+			div(id="endModal" class="reveal-modal full" data-reveal)
+				div.container
+					div.content
+					a(class="close-reveal-modal modal-close" data-i18n="game.quiz.modal_button") TOCCA PER CONTINUARE
+
+			div(id="reloadModal" class="reveal-modal small" data-reveal)
+				img(src="images/modal_close.png")
+				h1(data-i18n="[html]home.alert.alert_content")
+				a(class="close-reveal-modal modal-close" data-i18n="home.alert.alert_button") TOCCA PER ANNULLARE
+
+		include footer
