@@ -431,6 +431,6 @@ var app = (function(document, $) {
 	};
 })(document, jQuery);
 
-(function() {
+(function($) {
 	app.init();
-})();
+})(jQuery);
