@@ -425,6 +425,11 @@ background-color: #714592;
   -webkit-animation-delay: .6s;
   animation-delay: .6s;
 }
+#main.game .navigation .level-bar li:last-child {
+    border: 0px solid red;
+    
+    margin-right: 0;
+}
 
 #main.game .navigation .level-bar li:before {
   content: '';
