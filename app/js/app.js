@@ -113,17 +113,24 @@ var app = (function(document, $) {
 				$( '#bb-bookblock' ).bookblock( 'jump', pagetogo );
 			} );
 
-			$( '#bb-bookblock' ).on("click", function (e) {
-				var x = e.pageX - $(this).offset().left;
+			// $( '#bb-bookblock' ).on("click", function (e) {
+			// 	var x = e.pageX - $(this).offset().left;
+			//
+			// 	if(x < $(this).width()/2){
+			// 		$(this).bookblock( 'prev' );
+			// 	} else {
+			// 		$(this).bookblock( 'next' );
+			// 	}
+			// 	/*var pagetogo = parseInt($(this).attr('data-page'));
+			// 	$( '#bb-bookblock' ).bookblock( 'jump', pagetogo );*/
+			// } );
 
-				if(x < $(this).width()/2){
-					$(this).bookblock( 'prev' );
-				} else {
-					$(this).bookblock( 'next' );
-				}
-				/*var pagetogo = parseInt($(this).attr('data-page'));
-				$( '#bb-bookblock' ).bookblock( 'jump', pagetogo );*/
-			} );
+			$('#bb-bookblock').on('swipeleft', function() {
+				$(this).bookblock( 'next' );
+			});
+			$('#bb-bookblock').on('swiperight', function() {
+				$(this).bookblock( 'prev' );
+			});			
 		},
 
 		// GAME ---------------------------------------------------------------------------------------------------------------------
@@ -431,6 +438,6 @@ var app = (function(document, $) {
 	};
 })(document, jQuery);
 
-(function($) {
+(function() {
 	app.init();
-})(jQuery);
+})();

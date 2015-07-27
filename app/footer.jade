@@ -1,15 +1,23 @@
+div(id="orientation-prompt-container")
+    div(id="orientation-prompt-content")
+    div(id="orientation-prompt-overlay")
+
 // build:js js/vendor/libraries.min.js
 // bower:js
-script(src='bower_components/jquery/dist/jquery.js')
-script(src='bower_components/fastclick/lib/fastclick.js')
-script(src='bower_components/jquery.cookie/jquery.cookie.js')
-script(src='bower_components/holderjs/holder.js')
-script(src='bower_components/i18next/i18next.js')
-script(src='bower_components/jquery-ui/jquery-ui.js')
-script(src='bower_components/jqueryui-touch-punch/jquery.ui.touch-punch.min.js')
-script(src='bower_components/BookBlock-rfiore/jquery.bookblock.js')
+script(src='../bower_components/jquery/dist/jquery.js')
+script(src='../bower_components/fastclick/lib/fastclick.js')
+script(src='../bower_components/jquery.cookie/jquery.cookie.js')
+script(src='../bower_components/holderjs/holder.js')
+script(src='../bower_components/i18next/i18next.js')
+script(src='../bower_components/jquery-ui/jquery-ui.js')
+script(src='../bower_components/jqueryui-touch-punch/jquery.ui.touch-punch.min.js')
+script(src='../bower_components/BookBlock-rfiore/jquery.bookblock.js')
 // endbower
 // endbuild
+
+// Book block:
+script(src='bower_components/BookBlock-rfiore/jquery.bookblock.js')
+
 //script(src='bower_components/BookBlock/js/jquery.bookblock.js')
 // build:js js/vendor/foundation.min.js
 script(src="bower_components/foundation/js/foundation/foundation.js")
@@ -34,3 +42,8 @@ script(src="bower_components/foundation/js/foundation/foundation.reveal.js")
 script(src="js/quiz.js")
 script(src="js/app.js")
 // endbuild
+
+// Swipe
+script(src='js/lib/jquery.mobile.min.js')
+// script(src='https://rawgit.com/stephband/jquery.event.move/master/event.move.jquery.json')
+// script(src='https://rawgit.com/stephband/jquery.event.swipe/master/event.swipe.jquery.json')
